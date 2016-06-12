@@ -1,0 +1,15 @@
+1. Take an array and print non overlapping in order pairs. (Problem1.java)
+
+Example : [1,2,3,4] => input
+
+Output : 
+	(1234)
+	(1)(234)
+	(1)(23)(4)
+	(1)(2)(34)
+	(12)(34)
+	(12)(3)(4)
+	(123)(4)
+	(1)(2)(3)(4)
+
+2. Print all possible combinations of valid parenthesis (problem2.java)
