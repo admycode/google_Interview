@@ -13,3 +13,5 @@ Output :
 	(1)(2)(3)(4)
 
 2. Print all possible combinations of valid parenthesis (problem2.java)
+
+3. Given a target sum, populate all subsets, whose sum is equal to the target sum, from an int array (problem3.java)
